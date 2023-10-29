@@ -390,7 +390,10 @@ h3 {
 
 .form {
   display: flex;
+  height: 509px;
+  width: 1440px;
   background: url(src/images/flowers.png);
+  background-repeat: no-repeat;
   flex-direction: column;
   justify-content: center;
   align-items: center;
